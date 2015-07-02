@@ -1,2 +1,2 @@
 # conky-r3d
-Conky config for everyone who likes a lot of red
+A modified version of Conky-Seamod by SeaJey http://seajey.deviantart.com/art/Conky-Seamod-v0-1-283461046
